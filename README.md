@@ -4,14 +4,15 @@
 
 - 📫 Reach me at: **paricherlatanuja1234@gmail.com**  
 
----
+
 
 <h3 align="left">🚀 Connect with me:</h3>
 <p align="left">
 https://www.linkedin.com/in/tanuja-ramani-paricherla-4ab8aa13b/
 </p>
 
----
+<h3 align="left">🎯 What I'm Looking For:</h3> <p align="left"> I am currently seeking opportunities in the following areas: </p> <ul> <li><b>Backend Development</b> </li> <li><b>Data Analytics</b> </li> <li><b>Software Security</b> </li> </ul>
+
 <h3 align="left">🌟 Professional Highlights:</h3>
 
 - **Full-stack Development:** Proficient in **Spring Boot**, **Hibernate**, and frontend technologies like **React**, **Angular**, **HTML/CSS**, and **JavaScript**.  
