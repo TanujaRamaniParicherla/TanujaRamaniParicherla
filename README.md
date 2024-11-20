@@ -16,7 +16,7 @@
 
 <h3 align="left">🚀 Connect with me:</h3>
 <p align="left">
-  <!-- Add your social media links here -->
+https://www.linkedin.com/in/tanuja-ramani-paricherla-4ab8aa13b/
 </p>
 
 ---
